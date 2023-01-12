@@ -90,6 +90,6 @@
 
 
   ### Mis estadistícas:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echezuri&show_icons=true&hide_border=true&theme=react)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=echezuri&show_icons=true&hide_border=true&theme=react)
 
 
